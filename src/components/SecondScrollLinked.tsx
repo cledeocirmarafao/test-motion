@@ -76,10 +76,6 @@ function useScrollOverflowMask(scrollXProgress: MotionValue<number>) {
     return maskImage
 }
 
-/**
- * ==============   Styles   ================
- */
-
 function StyleSheet() {
     return (
         <style>{`
